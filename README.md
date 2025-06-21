@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# InternLink Web Application
+
+This is the web application for the InternLink platform, built with React, Tailwind CSS, and Firebase.
+
+## Getting Started
+
+### 1. Prerequisites
+- Node.js (v16 or later)
+- npm or yarn
+
+### 2. Installation
+Clone the repository and install the dependencies.
+```bash
+git clone <your-repo-url>
+cd internlink-web
+npm install
